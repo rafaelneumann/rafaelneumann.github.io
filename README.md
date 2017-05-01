@@ -5,6 +5,7 @@ Published pages:
 * [Calculadora de salário líquido](https://rafaelneumann.github.io/Calculadora-Salario/)
 * [Binary Tree](https://rafaelneumann.github.io/binary_tree/)
 * [Genetic Algorithm](https://rafaelneumann.github.io/Genetic-algorithm/)
+* [Comparison of Algorithms - Random search, brute force and genetic](https://rafaelneumann.github.io/algorithm_comparison/)
 * [Randomizer](https://rafaelneumann.github.io/randomizer/)
 
 ---
