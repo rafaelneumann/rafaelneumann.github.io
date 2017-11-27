@@ -1,6 +1,7 @@
 # rafaelneumann (user page)
 
 Published pages:
+* [Editor do Texto dos Contratos do SIGRH](https://rafaelneumann.github.io/editor-texto-contratos/)
 * [Calculadora de dias](https://rafaelneumann.github.io/Calculadora-Dias/)
 * [Calculadora de salário líquido](https://rafaelneumann.github.io/Calculadora-Salario/)
 * [Binary Tree](https://rafaelneumann.github.io/binary_tree/)
