@@ -8,7 +8,7 @@ Published pages:
 * [Genetic Algorithm](https://rafaelneumann.github.io/Genetic-algorithm/)
 * [Comparison of Algorithms - Random search, brute force and genetic](https://rafaelneumann.github.io/algorithm_comparison/)
 * [Randomizer](https://rafaelneumann.github.io/randomizer/)
-* [Simples Perceptron](https://rafaelneumann.github.io/simplestperceptron/index.html)
+* [Simplest Perceptron](https://rafaelneumann.github.io/simplestperceptron/index.html)
 
 ---
 email: rafaelneumann@gmail.com
