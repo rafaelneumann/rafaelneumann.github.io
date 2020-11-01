@@ -9,6 +9,7 @@ Published pages:
 * [Comparison of Algorithms - Random search, brute force and genetic](https://rafaelneumann.github.io/algorithm_comparison/)
 * [Randomizer](https://rafaelneumann.github.io/randomizer/)
 * [Simplest Perceptron](https://rafaelneumann.github.io/simplestperceptron/index.html)
+* [Histórico de Regimes Próprios Brasileiros](https://rafaelneumann.github.io/historico_rpps/index.html)
 
 ---
 email: rafaelneumann@gmail.com
